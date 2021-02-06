@@ -5,4 +5,4 @@ Only 1 instance of this is meant to run per port. After recieving a message, dat
 
 On a connection, it expects to recieve a username and a group, as this uniquely identifies a client.
 
-The default port is 8989. Change it in ChatServer.java
+The default port is 8989. Change it in ChatServer.java AND in the client side code
